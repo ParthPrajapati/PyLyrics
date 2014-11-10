@@ -15,7 +15,7 @@ along with the filename.
 '''
 
 
-class Lyrister:
+class PyLyrics:
     def __init__(self, song, dir, filename):
         self.song = str(song)
         self.dir = str(dir)
